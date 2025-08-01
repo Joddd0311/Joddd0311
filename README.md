@@ -1,7 +1,9 @@
 ## 🐬 About Me:
 
 👋 Hi, I’m Nishant Tiwari  
+
 🎓 B.Tech ECE @ MNNIT Allahabad  
+
 📍 From Lucknow,Uttar Pradesh 
 
 👀 I'm interested in Data Structures and Algorithms and Competitive Programming 
