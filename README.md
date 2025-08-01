@@ -3,9 +3,13 @@
 👋 Hi, I’m Nishant Tiwari  
 🎓 B.Tech ECE @ MNNIT Allahabad  
 📍 From Lucknow,Uttar Pradesh 
+
 👀 I'm interested in Data Structures and Algorithms and Competitive Programming 
+
 🌱 I’m currently learning Backend Development  
+
 💞️ I'm looking to collaborate on Backend projects  
+
 📫 How to reach me: Email - nishant031111111@gmail.com  
 
 ---
