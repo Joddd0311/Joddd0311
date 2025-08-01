@@ -21,9 +21,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-tiwari-aa246a275/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nishant_jodd)  
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nish_jodd)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jodd0311)
 
 ---
 
